@@ -11,4 +11,4 @@ license: mit
 ---
 
 # hugging-face-demo
-Demo of simple HF model
+Demo of summarization model.
