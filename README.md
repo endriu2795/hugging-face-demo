@@ -1,5 +1,5 @@
 ---
-title: Demo summarization
+title: Summarization Test
 emoji: 👀
 colorFrom: red
 colorTo: red
